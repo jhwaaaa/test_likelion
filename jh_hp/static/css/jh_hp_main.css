@@ -1,0 +1,32 @@
+tbody{
+	position : absolute; left: 50%; margin-left: -300px;
+}
+
+#homepage_photo {
+	display: block;
+}
+
+#homepage_photo img{
+	display:block;
+	width: 600;
+	margin-top:100;
+	text-align: :center;
+
+}
+
+
+#profile {
+	/*display: inherit;*/
+	font-family: Script;
+	font-size: 20px;
+	text-align: center;
+	color: #c86852;
+}
+
+p {
+	display: block;
+	margin-right: 1em;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
